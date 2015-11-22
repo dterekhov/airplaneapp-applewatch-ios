@@ -5,7 +5,7 @@ iOS app for Apple Watch that demonstrates main sipmle features of device
 * Custom layout using nested groups
 * Navigation: using table to transitions, present screen modally, swipe pages
 * Animations: image-based (sequence of images), watchOS 2 animation API
-* Watch Connectivity with iPhone
+* Watch Connectivity with iPhone - request/resonse
 * Mockup JSON data for clarity
 
 ![alt tag][screenshot1]
